@@ -1,8 +1,8 @@
 {
     "routes":[
         {
-            "src":"/api/(.*)",
-            "dest": "https://wmsonline.ikeyly.com:20011/api/$1"
+            "src":"/api/:path*",
+            "dest": "https://wmsonline.ikeyly.com:20011/api/:path*"
         }
     ]
 }
