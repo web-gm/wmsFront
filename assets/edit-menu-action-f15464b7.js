@@ -1,0 +1,1 @@
+import"./edit-menu-action.vue_vue_type_script_setup_true_lang-7412bcac.js";import{_ as f}from"./edit-menu-action.vue_vue_type_script_setup_true_lang-7412bcac.js";import"./actionList-473e0ea7.js";import"./i18n-0af8b262.js";import"./runtime-core.esm-bundler-1bbee395.js";export{f as default};

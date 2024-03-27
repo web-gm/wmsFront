@@ -1,0 +1,1 @@
+import{h as t}from"./request-e1053d5a.js";const o=e=>t({url:"/freightfee/list",method:"post",data:e}),s=e=>t({url:"/freightfee",method:"post",data:e}),h=e=>t({url:"/freightfee",method:"put",data:e}),i=e=>t({url:"/freightfee",method:"delete",params:{id:e}}),a=e=>t({url:"/freightfee/excel",method:"post",data:e});export{s as a,i as d,a as e,o as g,h as u};

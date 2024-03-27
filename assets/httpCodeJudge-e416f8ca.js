@@ -1,0 +1,1 @@
+import{i as o}from"./i18n-0af8b262.js";import{a}from"./index-cd6d6b34.js";function n(e){const r=/^\[(\d+)\]/,t=e.match(r);return t?t[1]:null}const i=(e,r=!0)=>{const t=n(e);if(t)switch(t){case"202":return r&&a.$message({type:"error",content:o.global.t(`${o.global.t("system.tips.dataExpirationAutoRefresh")}`)}),!0;default:return!1}return!1};export{i as h};

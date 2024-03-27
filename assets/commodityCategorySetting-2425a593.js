@@ -1,0 +1,1 @@
+import{h as e}from"./request-e1053d5a.js";const a=()=>e({url:"/category/all",method:"get"}),r=t=>e({url:"/category",method:"post",data:t}),g=t=>e({url:"/category",method:"put",data:t}),s=t=>e({url:"/category",method:"delete",params:{id:t}});export{r as a,s as d,a as g,g as u};

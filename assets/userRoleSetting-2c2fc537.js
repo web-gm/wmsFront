@@ -1,0 +1,1 @@
+import{h as o}from"./request-e1053d5a.js";const s=()=>o({url:"/userrole/all",method:"get"}),t=e=>o({url:"/userrole",method:"post",data:e}),l=e=>o({url:"/userrole",method:"put",data:e}),a=e=>o({url:"/userrole",method:"delete",params:{id:e}});export{t as a,a as d,s as g,l as u};

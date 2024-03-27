@@ -1,0 +1,1 @@
+import{h as o}from"./request-e1053d5a.js";const c=t=>o({url:"/stock/select",method:"post",data:t}),e=t=>o({url:"/stock/sku-select",method:"post",data:t}),l=t=>o({url:"/stock/location-list",method:"post",data:t}),k=t=>o({url:"/stock/stock-list",method:"post",data:t});export{c as a,l as b,k as c,e as g};

@@ -1,0 +1,1 @@
+var i=(a=>(a[a.picking_area=1]="picking_area",a[a.stocking_area=2]="stocking_area",a[a.receiving_area=3]="receiving_area",a[a.return_area=4]="return_area",a[a.defective_area=5]="defective_area",a[a.inventory_area=6]="inventory_area",a))(i||{});export{i as A};
